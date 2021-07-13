@@ -14,7 +14,7 @@ Real plot             |  Encoded image
 :-------------------------:|:-------------------------:
 ![plot](https://github.com/iSab01/deep-FinGAF/blob/master/ressources/SwedishLeaf_example_plot_14.png)|![plot](https://github.com/iSab01/deep-FinGAF/blob/master/ressources/SwedishLeaf_example_encoded_14.png) 
 
-* An [Image Classification project](https://github.com/iSab01/megazord-backend) using Tensoflow, Transfer-learning and CNN's. An [iOS app](https://github.com/iSab01/megazord_frontend), coded in swift, is also part of the project. It was realized with [Augustin Cramer](https://github.com/AugustinCramer)
+* An [Image Classification project](https://github.com/iSab01/megazord-backend) using Tensoflow, Transfer-learning and CNN's. An [iOS app](https://github.com/iSab01/megazord_app), coded in swift, is also part of the project. It was realized with [Augustin Cramer](https://github.com/AugustinCramer)
 
 <div align="center"> 
   
