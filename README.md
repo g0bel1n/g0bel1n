@@ -8,7 +8,7 @@ Contact : lucas.saban@ensae.fr
 
 Here are some of my projects:
 
-* [**Work in progress**] A [Trading Strategy prediction project](https://github.com/iSab01/deep-FinGAF) using data image encoding, Gramian Angular Field and Convolutionnal Neural Networks.
+* A [Trading Strategy prediction project](https://github.com/iSab01/deep-FinGAF) using data image encoding, Gramian Angular Field and Convolutionnal Neural Networks.
 
 Real plot             |  Encoded image
 :-------------------------:|:-------------------------:
