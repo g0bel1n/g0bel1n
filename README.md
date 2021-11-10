@@ -28,6 +28,7 @@ https://user-images.githubusercontent.com/73651505/124951406-9c869c00-e013-11eb-
 <img src="https://github.com/iSab01/gravlaw-model/blob/master/ressources/GravLawModel_France.png" alt="gRavlaw" width="400"/>
 </div>
   
+* A [C++ Rubik's Cube solver using Simulated Annealing](https://github.com/g0bel1n/cKube) (WIP)
 
 * A [ML applied to trading strategy project](https://github.com/iSab01/ML_Trading_project), realized for as an academic project with Héléna Perrier (helena.perrier@ensae.fr).
 
