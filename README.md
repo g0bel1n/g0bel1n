@@ -8,19 +8,21 @@ Contact : lucas.saban@ensae.fr
 
 Here are some of my projects:
 
-* A [Trading Strategy prediction project](https://github.com/iSab01/deep-FinGAF) using data image encoding, Gramian Angular Field and Convolutionnal Neural Networks.
-
-Real plot             |  Encoded image
-:-------------------------:|:-------------------------:
-![plot](https://github.com/iSab01/deep-FinGAF/blob/master/ressources/SwedishLeaf_example_plot_14.png)|![plot](https://github.com/iSab01/deep-FinGAF/blob/master/ressources/SwedishLeaf_example_encoded_14.png) 
-
 * An [Image Classification project](https://github.com/iSab01/megazord-backend) using Tensoflow, Transfer-learning and CNN's. An [iOS app](https://github.com/iSab01/megazord_frontend), coded in swift, is also part of the project. It was realized with [Augustin Cramer](https://github.com/AugustinCramer)
 
 <div align="center"> 
+
+![Demo](https://github.com/g0bel1n/megazord-backend/blob/main/ressources/demo_megazord.gif)
   
+</div>
 
-https://user-images.githubusercontent.com/73651505/141115629-6c80534c-360b-401f-b011-c929d7294311.mp4
+* An [Ant-Search Simulation](https://github.com/g0bel1n/Avengers_AntGame) with GUI using C++ and SFML
 
+<div align=center>
+  
+![Demo](https://github.com/g0bel1n/Avengers_AntGame/blob/master/ressources/ant_gif.gif)
+  
+ *The ants adapt to the change in their environnement. They quickly find a new path following the pheromones tracks.*
   
 </div>
 
@@ -29,6 +31,12 @@ https://user-images.githubusercontent.com/73651505/141115629-6c80534c-360b-401f-
 <div align=center>
 <img src="https://github.com/iSab01/gravlaw-model/blob/master/ressources/GravLawModel_France.png" alt="gRavlaw" width="400"/>
 </div>
+
+* A [Trading Strategy prediction project](https://github.com/iSab01/deep-FinGAF) using data image encoding, Gramian Angular Field and Convolutionnal Neural Networks.
+
+Real plot             |  Encoded image
+:-------------------------:|:-------------------------:
+![plot](https://github.com/iSab01/deep-FinGAF/blob/master/ressources/SwedishLeaf_example_plot_14.png)|![plot](https://github.com/iSab01/deep-FinGAF/blob/master/ressources/SwedishLeaf_example_encoded_14.png) 
   
 * A [C++ Rubik's Cube solver using Simulated Annealing](https://github.com/g0bel1n/cKube) (WIP)
 
