@@ -40,10 +40,10 @@ Real plot             |  Encoded image
   
 * A [C++ Rubik's Cube solver using Simulated Annealing](https://github.com/g0bel1n/cKube) (WIP)
 
-* A [ML applied to trading strategy project](https://github.com/iSab01/ML_Trading_project), realized for as an academic project with Héléna Perrier (helena.perrier@ensae.fr).
+<!---(* A [ML applied to trading strategy project](https://github.com/iSab01/ML_Trading_project), realized for as an academic project with Héléna Perrier 
 
 *Slide 5*       | *Slide 8*
-:-------------------------:|:-------------------------:
-![plot](https://github.com/iSab01/ML_Trading_project/blob/recherches/ressources/Capture%20d%E2%80%99e%CC%81cran%202021-07-12%20a%CC%80%2010.13.23.png)|![plot](https://github.com/iSab01/ML_Trading_project/blob/recherches/ressources/Capture%20d%E2%80%99e%CC%81cran%202021-07-12%20a%CC%80%2010.13.36.png)
-
-
+ :-------------------------:|:-------------------------:
+ ![plot](https://github.com/iSab01/ML_Trading_project/blob/recherches/ressources/Capture%20d%E2%80%99e%CC%81cran%202021-07-12%20a%CC%80%2010.13.23.png)|![plot](https://github.com/iSab01/ML_Trading_project/blob/recherches/ressources/Capture%20d%E2%80%99e%CC%81cran%202021-07-12%20a%CC%80%2010.13.36.png)
+)
+-->
