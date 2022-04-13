@@ -16,7 +16,15 @@ Here are some of my projects:
   
 </div>
 
-* A scikit-learn plugin for binary Classification tasks, delivered as a [pypi package](https://pypi.org/project/TinyAutoML/). The source is available [here](https://github.com/g0bel1n/TinyAutoML). In a few words, it builds pipelines that handles preprocessing, feature selection, hyperparameter tuning and applies ensemble learning methods on top of it. The source code uses duck-typing, inheritance, abstract classes and fits in the global scikit-learn framework.
+* A scikit-learn plugin for binary Classification tasks, delivered as a [pypi package](https://pypi.org/project/TinyAutoML/). The source is available [here](https://github.com/g0bel1n/TinyAutoML). 
+ 
+ <div align="center"> 
+  
+ ![Fichier 1](https://user-images.githubusercontent.com/73651505/163118697-cde202b0-1fc0-4ccc-870a-105d9f5e336a.jpg)
+  
+ </div>
+
+In a few words, it builds pipelines that handles preprocessing, feature selection, hyperparameter tuning and applies ensemble learning methods on top of it. The source code uses duck-typing, inheritance, abstract classes and fits in the global scikit-learn framework.
 
 * An [Ant-Search Simulation](https://github.com/g0bel1n/Avengers_AntGame) with GUI using C++ and SFML
 
