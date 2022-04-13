@@ -20,7 +20,7 @@ Here are some of my projects:
  
  <div align="center"> 
   
- ![Fichier 1](https://user-images.githubusercontent.com/73651505/163118697-cde202b0-1fc0-4ccc-870a-105d9f5e336a.jpg)
+  ![Fichier 2](https://user-images.githubusercontent.com/73651505/163119112-50911fbc-32f7-4da0-8bb2-79efc4e4019f.jpg)
   
  </div>
 
