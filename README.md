@@ -1,4 +1,4 @@
-## Lucas Saban
+# Lucas Saban
 
 Student at [Ensae Paris](https://www.ensae.fr/en/). Interested in Machine Learning, Deep Learning, Swarm intelligence and more broadly in anything tech-related.
 
@@ -17,14 +17,22 @@ Here are some of my projects:
 </div>
 
 * A scikit-learn plugin for binary Classification tasks, delivered as a [pypi package](https://pypi.org/project/TinyAutoML/). The source is available [here](https://github.com/g0bel1n/TinyAutoML). 
+
+ <div align="center"> 
+  
+  ![TAM_logo](https://user-images.githubusercontent.com/73651505/166305225-1a5c6060-7980-426d-8751-ffca4842f18f.png)  
+  
+ </div>
+ 
+ 
+In a few words, it builds **pipelines** that handles **preprocessing, feature selection, hyperparameter tuning** and applies **ensemble learning methods** on top of it. The source code uses duck-typing, inheritance, abstract classes and fits in the global scikit-learn framework.
  
  <div align="center"> 
   
-  ![Fichier 2](https://user-images.githubusercontent.com/73651505/163119112-50911fbc-32f7-4da0-8bb2-79efc4e4019f.jpg)
+  ![TinyAutoML (1)](https://user-images.githubusercontent.com/73651505/166305266-c171b3bd-cd7e-4164-b59e-16fcb4a2cf7e.png)
   
  </div>
 
-In a few words, it builds pipelines that handles preprocessing, feature selection, hyperparameter tuning and applies ensemble learning methods on top of it. The source code uses duck-typing, inheritance, abstract classes and fits in the global scikit-learn framework.
 
 * An [Ant-Search Simulation](https://github.com/g0bel1n/Avengers_AntGame) with GUI using C++ and SFML
 
