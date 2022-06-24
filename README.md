@@ -1,10 +1,10 @@
 # Lucas Saban
 
-Student at [Ensae Paris](https://www.ensae.fr/en/). Interested in Machine Learning, Deep Learning, Swarm intelligence and more broadly in anything tech-related.
+Student at [Ensae Paris](https://www.ensae.fr/en/) and MVA. Interested in Machine Learning, Deep Learning, Swarm intelligence and more broadly in anything tech-related.
 
 I publish some of my projects here. They are far from being perfect, so feel free to PR or e-mail me with advices ! 
 
-Contact : lucas.saban@ensae.fr
+Contact : lucas.saban[at]ensae.fr
 
 Here are some of my projects:
 
