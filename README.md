@@ -1,12 +1,21 @@
 # Lucas Saban
 
-Student at [Ensae Paris](https://www.ensae.fr/en/) and MVA. Interested in Machine Learning, Deep Learning, Swarm intelligence and more broadly in anything tech-related.
+Master student at [Ensae Paris](https://www.ensae.fr/en/) and MVA (ENS Paris-Saclay). Interested in Machine Learning, Deep Learning, Swarm intelligence. 
+I'm actually focusing on metaheuristics optimization technics and especially about Ant Colony Optimization. 
 
 I publish some of my projects here. They are far from being perfect, so feel free to PR or e-mail me with advices ! 
 
 Contact : lucas.saban[at]ensae.fr
 
-Here are some of my projects:
+## Awards and Competitions 
+
+
+* 1st place at the 2022 [Hi Paris Hackacthon](https://hackathon-hi-paris.fr/rewards/) delivered by [Capgemini](https://www.capgemini.com/). Segmentation and classification computer vision tasks. 
+* 1st place at the 2022 [ENSAE](https://www.ensae.fr/en/)'s Hackathon by [Eleven Strategy](https://eleven-strategy.com/) and [Data For Good](https://dataforgood.fr/). We used computer vision, NLP and audio segmentation to evaluate Bechdel scores.
+* 2nd place at the 2021 [ENSAE](https://www.ensae.fr/en/)'s Hackathon by [Capgemini](https://www.capgemini.com/)
+
+## Some projects
+
 
 * An [Image Classification project](https://github.com/iSab01/megazord-backend) using Tensorflow, Transfer-learning and CNN's. An [iOS app](https://github.com/iSab01/megazord_frontend), that I coded in swift, is the front-end part of the project. It was realized with [Augustin Cramer](https://github.com/AugustinCramer)
 
