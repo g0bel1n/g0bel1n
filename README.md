@@ -21,7 +21,7 @@ Contact : ```lucas[dot]saban[at]ensae[dot]fr```
 ## Some projects
 
 
-* An [Image Classification project](https://github.com/iSab01/megazord-backend) using Tensorflow, Transfer-learning and CNN's. An [iOS app](https://github.com/iSab01/megazord_frontend), that I coded in swift, is the front-end part of the project. It was realized with [Augustin Cramer](https://github.com/AugustinCramer)
+* A full-stack [Image Classification project](https://github.com/iSab01/megazord-backend) using Tensorflow, Transfer-learning and CNN's. An [iOS app](https://github.com/iSab01/megazord_frontend), that I coded in swift, is the front-end part of the project. It was realized with [Augustin Cramer](https://github.com/AugustinCramer)
 
 <div align="center"> 
 
