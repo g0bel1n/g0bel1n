@@ -6,7 +6,7 @@ I'm actually focusing on metaheuristic optimization technics and especially on A
 I open source some of my projects here. 
 
 **Currently working on :**
-* CuttinEdge : [*Computer Vision | Spatio-Temporal clustering*] based start-up for hair saloon management.
+* CuttinEdge : [*Computer Vision | Spatio-Temporal clustering*] based start-up for hair saloon management. Improving STDBSCAN algorithm for our use case
 * MOMOA : Multi-objective Model Optimization derived from Ant colony optimization @CREST-CNRS
 
 Contact : ```lucas[dot]saban[at]ensae[dot]fr```
