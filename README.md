@@ -13,7 +13,7 @@ Contact : ```lucas[dot]saban[at]ensae[dot]fr```
 
 ## Awards and Competitions 
 
-* 1st place at 2022 [Ostrum Asset Management](https://www.ostrum.fr) [Finance Game](https://www.linkedin.com/posts/ibrahima-kobar-cfa-8bb2761_esg-climat-ia-activity-6988031975915667456-YCUn?utm_source=share&utm_medium=member_desktop). Deep Recurrent Reinforcement Learning for Dynamic Portfolio Optimization.
+* 1st place at 2022 [Ostrum Asset Management](https://www.ostrum.com) [Finance Game](https://www.linkedin.com/posts/ibrahima-kobar-cfa-8bb2761_esg-climat-ia-activity-6988031975915667456-YCUn?utm_source=share&utm_medium=member_desktop). Deep Recurrent Reinforcement Learning for Dynamic Portfolio Optimization.
 * 1st place at the 2022 [Hi Paris Hackacthon](https://hackathon-hi-paris.fr/rewards/) delivered by [Capgemini](https://www.capgemini.com/). Segmentation and classification computer vision tasks. 
 * 1st place at the 2022 [ENSAE](https://www.ensae.fr/en/)'s Hackathon by [Eleven Strategy](https://eleven-strategy.com/) and [Data For Good](https://dataforgood.fr/). We used computer vision, NLP and audio segmentation to evaluate Bechdel scores.
 * 2nd place at the 2021 [ENSAE](https://www.ensae.fr/en/)'s Hackathon by [Capgemini](https://www.capgemini.com/)
