@@ -3,11 +3,15 @@
 Master student at [Ensae Paris](https://www.ensae.fr/en/) and MVA (ENS Paris-Saclay). Interested in Machine Learning, Deep Learning, Swarm intelligence. 
 I'm actually focusing on metaheuristic optimization technics and especially on Ant Colony Optimization. 
 
+Research Assistant @CREST-CNRS
+
+Incoming Intern @QRT
+
 I open source some of my projects here. 
 
 **Currently working on :**
 * CuttinEdge : [*Computer Vision | Spatio-Temporal clustering*] based start-up for hair saloon management. Improving STDBSCAN algorithm for our use case
-* MOMOA : Multi-objective Model Optimization derived from Ant colony optimization @CREST-CNRS
+* Quantools : [*Financial Engineering | Visualization | High Performance Python*] A tool-box for quants (ML-oriented)
 
 Contact : ```lucas[dot]saban[at]ensae[dot]fr```
 
@@ -69,9 +73,9 @@ Real plot             |  Encoded image
 :-------------------------:|:-------------------------:
 ![plot](https://github.com/iSab01/deep-FinGAF/blob/master/ressources/SwedishLeaf_example_plot_14.png)|![plot](https://github.com/iSab01/deep-FinGAF/blob/master/ressources/SwedishLeaf_example_encoded_14.png) 
   
-#* A [C++ Rubik's Cube solver using Simulated Annealing](https://github.com/g0bel1n/cKube) (WIP)
+<!-- A [C++ Rubik's Cube solver using Simulated Annealing](https://github.com/g0bel1n/cKube) (WIP)
 
-<!---(* A [ML applied to trading strategy project](https://github.com/iSab01/ML_Trading_project), realized for as an academic project with Héléna Perrier 
+(* A [ML applied to trading strategy project](https://github.com/iSab01/ML_Trading_project), realized for as an academic project with Héléna Perrier 
 
 *Slide 5*       | *Slide 8*
  :-------------------------:|:-------------------------:
