@@ -1,7 +1,7 @@
 # Lucas Saban
 
 Master student at [Ensae Paris](https://www.ensae.fr/en/) and MVA (ENS Paris-Saclay). Interested in Machine Learning, Deep Learning, Swarm intelligence. 
-I'm actually focusing on metaheuristic optimization technics and especially on Ant Colony Optimization. 
+I'm actually focusing on metaheuristic optimization technics. 
 
 Research Assistant @CREST-CNRS
 
