@@ -10,7 +10,7 @@ Incoming Intern @QRT
 I open source some of my projects here. 
 
 **Currently working on :**
-* CuttinEdge : [*Computer Vision | Spatio-Temporal clustering*] based start-up for hair saloon management. Improving STDBSCAN algorithm for our use case
+<!-- * CuttinEdge : [*Computer Vision | Spatio-Temporal clustering*] based start-up for hair saloon management. Improving STDBSCAN algorithm for our use case -->
 * Quantools : [*Financial Engineering | Visualization | High Performance Python*] A tool-box for quants (ML-oriented)
 
 Contact : ```lucas[dot]saban[at]ensae[dot]fr```
