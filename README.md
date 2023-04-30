@@ -1,7 +1,6 @@
 # Lucas Saban
 
 Master student at [Ensae Paris](https://www.ensae.fr/en/) and MVA (ENS Paris-Saclay). Interested in Machine Learning, Deep Learning, Swarm intelligence. 
-I'm actually focusing on metaheuristic optimization technics. 
 
 Research Assistant @CREST-CNRS
 
@@ -12,6 +11,7 @@ I open source some of my projects here.
 **Currently working on :**
 <!-- * CuttinEdge : [*Computer Vision | Spatio-Temporal clustering*] based start-up for hair saloon management. Improving STDBSCAN algorithm for our use case -->
 * Quantools : [*Financial Engineering | Visualization | High Performance Python*] A tool-box for quants (ML-oriented)
+* DDQL : [*RL | Optimal Execution | Trading*] Implementation of a paper.
 
 Contact : ```lucas[dot]saban[at]ensae[dot]fr```
 
@@ -23,6 +23,20 @@ Contact : ```lucas[dot]saban[at]ensae[dot]fr```
 * 2nd place at the 2021 [ENSAE](https://www.ensae.fr/en/)'s Hackathon by [Capgemini](https://www.capgemini.com/)
 
 ## Some projects
+
+### Academy
+
+* Leveraging latent representations for efficient textual OOD detection.  [Paper](https://www.overleaf.com/read/tzmhvvjdqbqr), [Repo](https://github.com/g0bel1n/textual-ood-detection/tree/main) (Not published)
+
+* Large scale joint Hyperparameters and feature selection using Multi-objective heuristic optimization [Report](https://www.overleaf.com/read/yfhcsvdrjgsg),  [Presentation](https://www.overleaf.com/read/rtyhhszcppbc) and [Repo](https://github.com/g0bel1n/swarmpy)
+
+* Implementation of Fast Shapelet discoveries for time series classification [Orignal Paper](https://www.cs.ucr.edu/~eamonn/SDM_FastShapelets.pdf), [Report](https://github.com/g0bel1n/fast_shapelets/blob/main/docs/report.pdf) and [Repo](https://github.com/g0bel1n/fast_shapelets)
+
+* Implementation of Double Deep Q-Learning for Optimal Trading Execution  [Orignal Paper](https://arxiv.org/abs/1812.06600),  [Report]() and [Repo](https://github.com/g0bel1n/DDQL-optimal-execution)
+
+### Industry
+
+* Spatio-temporel spectral clustering algorithm based on HDBSCAN for dynamic event recognition. Source is private but happy to talk about it.
 
 
 * A full-stack [Image Classification project](https://github.com/iSab01/megazord-backend) using Tensorflow, Transfer-learning and CNN's. An [iOS app](https://github.com/iSab01/megazord_frontend), that I coded in swift, is the front-end part of the project. It was realized with [Augustin Cramer](https://github.com/AugustinCramer)
@@ -41,7 +55,7 @@ Contact : ```lucas[dot]saban[at]ensae[dot]fr```
   
  </div>
  
- 
+ <!--
 In a few words, it builds **pipelines** that handles **preprocessing, feature selection, hyperparameter tuning** and applies **ensemble learning methods** on top of it. The source code uses duck-typing, inheritance, abstract classes and fits in the global scikit-learn framework.
  
  <div align="center"> 
@@ -49,7 +63,7 @@ In a few words, it builds **pipelines** that handles **preprocessing, feature se
   ![TinyAutoML (1)](https://user-images.githubusercontent.com/73651505/166305266-c171b3bd-cd7e-4164-b59e-16fcb4a2cf7e.png)
   
  </div>
-
+-->
 
 * An [Ant-Search Simulation](https://github.com/g0bel1n/Avengers_AntGame) with GUI using C++ and SFML
 
@@ -67,13 +81,13 @@ In a few words, it builds **pipelines** that handles **preprocessing, feature se
 <img src="https://github.com/iSab01/gravlaw-model/blob/master/ressources/GravLawModel_France.png" alt="gRavlaw" width="400"/>
 </div>
 
-* A [Trading Strategy prediction project](https://github.com/iSab01/deep-FinGAF) using data image encoding, Gramian Angular Field and Convolutionnal Neural Networks.
+<!-- * A [Trading Strategy prediction project](https://github.com/iSab01/deep-FinGAF) using data image encoding, Gramian Angular Field and Convolutionnal Neural Networks.
 
 Real plot             |  Encoded image
 :-------------------------:|:-------------------------:
 ![plot](https://github.com/iSab01/deep-FinGAF/blob/master/ressources/SwedishLeaf_example_plot_14.png)|![plot](https://github.com/iSab01/deep-FinGAF/blob/master/ressources/SwedishLeaf_example_encoded_14.png) 
   
-<!-- A [C++ Rubik's Cube solver using Simulated Annealing](https://github.com/g0bel1n/cKube) (WIP)
+ A [C++ Rubik's Cube solver using Simulated Annealing](https://github.com/g0bel1n/cKube) (WIP)
 
 (* A [ML applied to trading strategy project](https://github.com/iSab01/ML_Trading_project), realized for as an academic project with Héléna Perrier 
 
