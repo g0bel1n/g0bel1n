@@ -1,10 +1,8 @@
 # Lucas Saban
 
-Master student at [Ensae Paris](https://www.ensae.fr/en/) and MVA (ENS Paris-Saclay). Interested in Machine Learning, Deep Learning, Swarm intelligence. 
+Double Degree Master student at [Ensae Paris](https://www.ensae.fr/en/) and [MVA](https://www.master-mva.com/) (ENS Paris-Saclay). Interested in Machine Learning, Deep Learning, Swarm intelligence. 
 
-Research Assistant @CREST-CNRS
-
-Incoming Intern @QRT
+Research Assistant [@CREST-CNRS](https://crest.science/) and Incoming Intern [@QRT](https://www.qube-rt.com/)
 
 I open source some of my projects here. 
 
