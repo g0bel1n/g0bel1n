@@ -1,7 +1,5 @@
 # Lucas Saban
 
-Quant Researcher [@QRT](https://www.qube-rt.com/)
-
 Previously Double Degree Master student at [Ensae Paris](https://www.ensae.fr/en/) and [MVA](https://www.master-mva.com/) (ENS Paris-Saclay). Interested in Machine Learning, Deep Learning, Swarm intelligence. 
 
 I open source some of my projects here. 
